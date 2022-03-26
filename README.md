@@ -1,7 +1,8 @@
 # Gym-
-This project Show what A Gym contain That:
-Home include an image of Athleteand encourage in Mind,Healthy is important for life.
-Pricing of Pakage.,also hve offer?
+This project Show what A Gym contain That:-
+1)Home include an image of Athleteand encourage in Mind,Healthy is important for life.
+2)Pricing of Pakage.,also hve offer?
+3)Types of training
 Also How contact trainer with client.😍
 
 ![Screenshot (167)](https://user-images.githubusercontent.com/76200523/160240124-18d431de-b830-4170-a941-9acbefed17bf.png)
